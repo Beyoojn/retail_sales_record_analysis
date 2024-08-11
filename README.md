@@ -1,8 +1,21 @@
-# Retail Data Records Analysis
-## Overview
-This project involves the analysis of retail data records. The dataset contains information on transactions, including product IDs, quantities sold, total amounts, and transaction dates. The goal of this project is to analyze sales performance, identify trends, and generate insights to support business decisions.
-## Looker Studio
-Looker Studio is a modern, enterprise-grade business intelligence (BI) and data visualization tool designed to help organizations derive actionable insights from their data. Looker Studio provides powerful data exploration capabilities, enabling users to create dynamic, interactive dashboards and reports.<br>
-## Preview
-This project will compare visualizations produced by Python and Looker Studio.<br>
-![image](https://github.com/Beyoojn/retail_sales_record_analysis/assets/161425213/fa63c543-e203-4e7c-863a-5d592fc51e09)
+# Pricing Strategy Analyst
+## Problem Statement
+
+Deep dive into the market data, analyze historical sales data, studying how various factors such as product category, discount levels, store location, and customer demographics have influenced purchasing decisions with looking into the following features.
+
+## Role
+
+The company has been facing fluctuating sales, with certain products either underperforming or not yielding the expected profit margins. The executive team believes that pricing may be a critical factor affecting sales performance across different stores and product categories.
+
+## Goals
+
+Optimize Pricing to Maximize Revenue
+
+## Objectives
+
+Analyze Historical Sales Data, Develop a Pricing Model, Implement Pricing Adjustments
+
+## Business Metric
+
+1. Revenue Metric: The total income generated form all transaction
+2. Sales Metrics: The total quantity of products sold
